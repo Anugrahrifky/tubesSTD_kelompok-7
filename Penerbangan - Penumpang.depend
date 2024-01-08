@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1703440826 source:c:\users\user\videos\penerbangan - penumpang\main.cpp
+	"flight.h"
+
+1703440888 c:\users\user\videos\penerbangan - penumpang\flight.h
+	<iostream>
+
+1703440807 source:c:\users\user\videos\penerbangan - penumpang\flight.cpp
+	"flight.h"
+
+1703741995 source:e:\tubes std 23\penerbangan - penumpang\flight.cpp
+	"flight.h"
+
+1703440888 e:\tubes std 23\penerbangan - penumpang\flight.h
+	<iostream>
+
+1703440826 source:e:\tubes std 23\penerbangan - penumpang\main.cpp
+	"flight.h"
+
